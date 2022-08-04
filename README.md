@@ -126,6 +126,11 @@ Flutter Tech Assessment
 [Drive link is public](https://drive.google.com/file/d/1SHZI0dFLi5KAtdSQAFUZX1ViUwe4EoMP/view?usp=sharing)
 
 
+2. Test Results
+	+ Unit Test
+	+ Widget Test
+
+	+ Integration Test
 
 
 
@@ -135,6 +140,8 @@ Flutter Tech Assessment
 
 
 
+
+https://user-images.githubusercontent.com/48150826/182868369-2f0e97c1-d700-49e0-8957-039469cbaf7f.mov
 
 
 
