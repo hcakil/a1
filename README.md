@@ -120,14 +120,26 @@ Flutter Tech Assessment
 | Tables        | Detail        | Search | Filter        | Type  |
 | ------------- |:-------------:| -----: |:-------------:| -----:|
 | Web     | [detail](https://user-images.githubusercontent.com/48150826/182855033-d3d92736-09e4-4c51-bdfc-3394b439f2b5.mov) | [search](https://user-images.githubusercontent.com/48150826/182854768-f62d6cba-fb59-41de-827d-993f4971c327.mov)  | [filter](https://user-images.githubusercontent.com/48150826/182854785-57100576-07e5-490a-a08d-3243071599d8.mov) | [type](https://user-images.githubusercontent.com/48150826/182855016-045a1f65-0e2a-4357-89bc-d74b6b58184e.mov) |
-| Android | [detail](https://user-images.githubusercontent.com/48150826/182855033-d3d92736-09e4-4c51-bdfc-3394b439f2b5.mov) | [search](https://user-images.githubusercontent.com/48150826/182854768-f62d6cba-fb59-41de-827d-993f4971c327.mov)  | [filter](https://user-images.githubusercontent.com/48150826/182854785-57100576-07e5-490a-a08d-3243071599d8.mov) | [type](https://user-images.githubusercontent.com/48150826/182855016-045a1f65-0e2a-4357-89bc-d74b6b58184e.mov) |
-| Apple   | [detail](https://user-images.githubusercontent.com/48150826/182855033-d3d92736-09e4-4c51-bdfc-3394b439f2b5.mov) | [search](https://user-images.githubusercontent.com/48150826/182854768-f62d6cba-fb59-41de-827d-993f4971c327.mov)  | [filter](https://user-images.githubusercontent.com/48150826/182854785-57100576-07e5-490a-a08d-3243071599d8.mov) | [type](https://user-images.githubusercontent.com/48150826/182855016-045a1f65-0e2a-4357-89bc-d74b6b58184e.mov) |
+| Android | [detail](https://user-images.githubusercontent.com/48150826/182860982-c2c4bae2-43ff-4860-bba1-e9031c7fdd7c.mov) | [search](https://user-images.githubusercontent.com/48150826/182861019-6f1e0180-a14a-4752-b6da-90dc1597be7c.mov)  | [filter](https://user-images.githubusercontent.com/48150826/182854785-57100576-07e5-490a-a08d-3243071599d8.mov) | [type](https://user-images.githubusercontent.com/48150826/182861171-7797b6c7-751e-4a07-87a6-860583872931.mov) |
+| Apple   | [detail](https://user-images.githubusercontent.com/48150826/182855033-d3d92736-09e4-4c51-bdfc-3394b439f2b5.mov) | [search](https://user-images.githubusercontent.com/48150826/182854768-f62d6cba-fb59-41de-827d-993f4971c327.mov)  | [filter](https://user-images.githubusercontent.com/48150826/182861165-68ce5d77-5add-4506-b800-6f1bb45198d3.mov) | [type]() |
 
 
 
 
-| col 2 is      | centered      |   $12  | right-aligned | $1600 |
-| zebra stripes | are neat      |    $1  | right-aligned | $1600 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
