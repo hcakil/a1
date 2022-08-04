@@ -119,12 +119,14 @@ Flutter Tech Assessment
 
 | Tables        | Web           | Android| Apple         | Cool  |
 | ------------- |:-------------:| -----: |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600  | right-aligned | $1600 |
+| col 3 is      | [detail](https://user-images.githubusercontent.com/48150826/182853445-3caf3522-f4db-49a9-823f-c2e7e797cfbd.gif) | [search](https://user-images.githubusercontent.com/48150826/182853722-4e3658b6-cd26-48dd-8549-02fce614d2dd.gif)  | [filter](https://user-images.githubusercontent.com/48150826/182853846-2d0224bf-7a58-4d1b-85a5-854c8f3b9a4c.gif) | [tyep](https://user-images.githubusercontent.com/48150826/182854034-200b3c1e-09a2-4772-8c72-8ac68ce8fecb.gif) |
 
 
-![detail](https://user-images.githubusercontent.com/48150826/182853445-3caf3522-f4db-49a9-823f-c2e7e797cfbd.gif)
 
 
 | col 2 is      | centered      |   $12  | right-aligned | $1600 |
 | zebra stripes | are neat      |    $1  | right-aligned | $1600 |
-  
+
+ 
+
+
