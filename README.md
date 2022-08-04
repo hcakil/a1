@@ -120,6 +120,10 @@ Flutter Tech Assessment
 | Tables        | Web           | Android| Apple         | Cool  |
 | ------------- |:-------------:| -----: |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600  | right-aligned | $1600 |
+
+https://user-images.githubusercontent.com/48150826/182852986-a1b555cd-fb7e-409d-8ec8-9c8e2c1a93d4.mov
+
+
 | col 2 is      | centered      |   $12  | right-aligned | $1600 |
 | zebra stripes | are neat      |    $1  | right-aligned | $1600 |
   
