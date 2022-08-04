@@ -97,5 +97,25 @@ Flutter Tech Assessment
 		+ Multiprovider (For more type of data fetch and differentiate between them)
 		+ Theme Bloc (Dark & Light Theme)
 
+4. Testing
+	+ For Unit testing is the logic test. For this project account_bloc tested.
+		+ Initial values accuracy
+		+ Created Mock Service and Mock Data
+		+ Simulating the Data Fetch process
+			+ isReady false
+			+ await data fecth
+			+ check mock data
+			+ isReady true check
+	
+	+ For widget testing
+		+ Check Displayed widgets such as AppBar
+		+ Check CupertinoActivityIndicator
+		+ Wait Async Data fetch
+		+ Checking fetched Account Card Widgets from Mock Service
+	
+	+ For Integrated Testing
+		+ Simulate the Main Screen Creation
+		+ Navigation test for specific Mock data object form Account list Page to this Account detail Page
+
 	
   
