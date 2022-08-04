@@ -117,5 +117,9 @@ Flutter Tech Assessment
 		+ Simulate the Main Screen Creation
 		+ Navigation test for specific Mock data object form Account list Page to this Account detail Page
 
-	
+| Tables        | Web           | Android| Apple         | Cool  |
+| ------------- |:-------------:| -----: |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600  | right-aligned | $1600 |
+| col 2 is      | centered      |   $12  | right-aligned | $1600 |
+| zebra stripes | are neat      |    $1  | right-aligned | $1600 |
   
