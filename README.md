@@ -122,7 +122,7 @@ Flutter Tech Assessment
 	+ Web
 	+ Android
 	+ IOS (Apple) included
-[Android Test Link](https://www.google.com)
+
 [Drive link is public](https://drive.google.com/file/d/1SHZI0dFLi5KAtdSQAFUZX1ViUwe4EoMP/view?usp=sharing)
 
 
