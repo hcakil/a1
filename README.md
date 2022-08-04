@@ -13,7 +13,7 @@ Flutter Tech Assessment
 2. Android 4 (KITKAT) and above
 3. IOS 10 and above
 
-##Live Links from Project;
+## Live Links from Project;
 
 1. [Android Test Link](https://www.google.com)
 2. [Apple (IOS) TestFlight Link](https://www.google.com)
@@ -49,4 +49,11 @@ Flutter Tech Assessment
 3. flutter_lints: ^1.0.0
 4. mocktail: ^0.2.0
 
+## Project Structure
+1. Blocs --> Change Notifiers
+	+ account_bloc
+	+ theme_bloc
+2. Models --> Object Models
+	+ account_model
+	+ theme_model
 
