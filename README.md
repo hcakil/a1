@@ -24,11 +24,12 @@ Project Functions
 1. Microsoft Dynamics 365 Cloud Data fetch
 2. Main Page
 
-⋅⋅* List of All Accounts
-⋅⋅⋅Searchbar for filtering (Dynamically filter all letters write & delete)
-⋅⋅⋅Filtering option based on State Code and StateOrProvince variable
-⋅⋅⋅UI View Change based on selection from grid or list (default list)
+* List of All Accounts
+- Searchbar for filtering (Dynamically filter all letters write & delete)
+- Filtering option based on State Code and StateOrProvince variable
+- UI View Change based on selection from grid or list (default list)
 
 3. Detail Page
-⋅⋅*Detail informations consists of selected Account
+
+* Detail informations consists of selected Account
 
