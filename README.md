@@ -50,10 +50,52 @@ Flutter Tech Assessment
 4. mocktail: ^0.2.0
 
 ## Project Structure
+
 1. Blocs --> Change Notifiers
 	+ account_bloc
 	+ theme_bloc
 2. Models --> Object Models
 	+ account_model
 	+ theme_model
+3. Screens
+	+ account_screen (and its components)
+	+ account_detail_screen (and its components)
+4. Services
+	+ account_service
 
+5. Utilities
+	+ constants
+
+## Explanation
+
+1. Get Ready Data Environments
+	+ After adjust the Environment on powerplatform
+	+ Connect Power Apps
+	+ Login Azure Portal and adjust credentials
+2. Data Fetch
+	+ Create an endpoint (for this purpose) for getting access token
+	+ Create for Account list fetch endpoint
+	+ Test these via POSTMAN
+3.Flutter Part
+	+ Above mentioned structure designed & start developing
+	+ Coming Data for Account list as json convert to account_model objects
+	+ Provider package used for this lists
+
+	+ State Code and StateOrProvince variables stored in a list which fetched from this account list (uniquely stored/avoid from duplication) [_stateFilterList]
+	+ This async action created for network get & post request/response time. This actions stored in bool value and state listening this data changes [_isReady]
+	+ There is also list created for showing filtered actions _accountSearchList
+	
+	+ Service part is only used by send & get requests from REST API (account_service)
+
+	+ For UI actions Elements designed based on MediaQuery variables for being responsive for web & mobil (for many type  UI sizes)
+	
+	+ List & Grid Types are two types of list supported by same list but ui is different.
+
+	+ Page elements divided by components in order to fill the clean code principles
+
+	+ App is designed and developed with possible future update infrastructure
+		+ Multiprovider (For more type of data fetch and differentiate between them)
+		+ Theme Bloc (Dark & Light Theme)
+
+	
+  
