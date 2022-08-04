@@ -118,10 +118,12 @@ Flutter Tech Assessment
 		+ Navigation test for specific Mock data object form Account list Page to this Account detail Page
 
 ## Aplication Screen Captures
+1. Screen Captures
 	+ Web
 	+ Android
 	+ IOS (Apple) included
-	[Drive link is public](https://drive.google.com/file/d/1SHZI0dFLi5KAtdSQAFUZX1ViUwe4EoMP/view?usp=sharing)
+[Android Test Link](https://www.google.com)
+[Drive link is public](https://drive.google.com/file/d/1SHZI0dFLi5KAtdSQAFUZX1ViUwe4EoMP/view?usp=sharing)
 
 
 
