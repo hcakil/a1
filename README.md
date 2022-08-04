@@ -117,15 +117,31 @@ Flutter Tech Assessment
 		+ Simulate the Main Screen Creation
 		+ Navigation test for specific Mock data object form Account list Page to this Account detail Page
 
-| Tables        | Web           | Android| Apple         | Cool  |
+| Tables        | Detail        | Search | Filter        | Type  |
 | ------------- |:-------------:| -----: |:-------------:| -----:|
-| col 3 is      | [detail](https://user-images.githubusercontent.com/48150826/182853445-3caf3522-f4db-49a9-823f-c2e7e797cfbd.gif) | [search](https://user-images.githubusercontent.com/48150826/182853722-4e3658b6-cd26-48dd-8549-02fce614d2dd.gif)  | [filter](https://user-images.githubusercontent.com/48150826/182853846-2d0224bf-7a58-4d1b-85a5-854c8f3b9a4c.gif) | [tyep](https://user-images.githubusercontent.com/48150826/182854034-200b3c1e-09a2-4772-8c72-8ac68ce8fecb.gif) |
+| Web     | [detail](https://user-images.githubusercontent.com/48150826/182855033-d3d92736-09e4-4c51-bdfc-3394b439f2b5.mov) | [search](https://user-images.githubusercontent.com/48150826/182854768-f62d6cba-fb59-41de-827d-993f4971c327.mov)  | [filter](https://user-images.githubusercontent.com/48150826/182854785-57100576-07e5-490a-a08d-3243071599d8.mov) | [type](https://user-images.githubusercontent.com/48150826/182855016-045a1f65-0e2a-4357-89bc-d74b6b58184e.mov) |
 
 
 
 
 | col 2 is      | centered      |   $12  | right-aligned | $1600 |
 | zebra stripes | are neat      |    $1  | right-aligned | $1600 |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
  
 
