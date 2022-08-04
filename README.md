@@ -76,7 +76,7 @@ Flutter Tech Assessment
 	+ Create an endpoint (for this purpose) for getting access token
 	+ Create for Account list fetch endpoint
 	+ Test these via POSTMAN
-3.Flutter Part
+3. Flutter Part
 	+ Above mentioned structure designed & start developing
 	+ Coming Data for Account list as json convert to account_model objects
 	+ Provider package used for this lists
