@@ -16,7 +16,7 @@ Flutter Tech Assessment
 ## Live Links from Project;
 
 1. [Android Test Link](https://www.google.com)
-2. [Apple (IOS) TestFlight Link]([https://www.google.com](https://testflight.apple.com/join/7VCuLqf3))
+2. [Apple (IOS) TestFlight Link]((https://testflight.apple.com/join/7VCuLqf3))
 3. [Web Link](https://www.google.com)
 
 ## Project Functions
