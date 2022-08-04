@@ -120,6 +120,8 @@ Flutter Tech Assessment
 | Tables        | Detail        | Search | Filter        | Type  |
 | ------------- |:-------------:| -----: |:-------------:| -----:|
 | Web     | [detail](https://user-images.githubusercontent.com/48150826/182855033-d3d92736-09e4-4c51-bdfc-3394b439f2b5.mov) | [search](https://user-images.githubusercontent.com/48150826/182854768-f62d6cba-fb59-41de-827d-993f4971c327.mov)  | [filter](https://user-images.githubusercontent.com/48150826/182854785-57100576-07e5-490a-a08d-3243071599d8.mov) | [type](https://user-images.githubusercontent.com/48150826/182855016-045a1f65-0e2a-4357-89bc-d74b6b58184e.mov) |
+| Android | [detail](https://user-images.githubusercontent.com/48150826/182855033-d3d92736-09e4-4c51-bdfc-3394b439f2b5.mov) | [search](https://user-images.githubusercontent.com/48150826/182854768-f62d6cba-fb59-41de-827d-993f4971c327.mov)  | [filter](https://user-images.githubusercontent.com/48150826/182854785-57100576-07e5-490a-a08d-3243071599d8.mov) | [type](https://user-images.githubusercontent.com/48150826/182855016-045a1f65-0e2a-4357-89bc-d74b6b58184e.mov) |
+| Apple   | [detail](https://user-images.githubusercontent.com/48150826/182855033-d3d92736-09e4-4c51-bdfc-3394b439f2b5.mov) | [search](https://user-images.githubusercontent.com/48150826/182854768-f62d6cba-fb59-41de-827d-993f4971c327.mov)  | [filter](https://user-images.githubusercontent.com/48150826/182854785-57100576-07e5-490a-a08d-3243071599d8.mov) | [type](https://user-images.githubusercontent.com/48150826/182855016-045a1f65-0e2a-4357-89bc-d74b6b58184e.mov) |
 
 
 
