@@ -15,9 +15,9 @@ Flutter Tech Assessment
 
 ## Live Links from Project;
 
-1. [Android Test Link](https://www.google.com)
+1. [Android Test Link (Not available now)](https://www.google.com)
 2. [Apple (IOS) TestFlight Link](https://testflight.apple.com/join/7VCuLqf3)
-3. [Web Link](https://www.google.com)
+3. [Web Link (Not available now)](https://www.google.com)
 
 ## Project Functions
 
@@ -116,6 +116,13 @@ Flutter Tech Assessment
 	+ For Integrated Testing
 		+ Simulate the Main Screen Creation
 		+ Navigation test for specific Mock data object form Account list Page to this Account detail Page
+
+5. Docker Part
+	+ Create Dockerfile
+	+ Prepare the server.sh (which includes build script)
+	+ "docker build . -t flutter_docker" run
+	+ "docker run -i -p 8080:5000 -td flutter_docker" run img container
+
 
 ## Aplication Screen Captures
 1. Screen Captures
