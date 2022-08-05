@@ -153,16 +153,8 @@ https://user-images.githubusercontent.com/48150826/182868931-a646a45d-00f7-4839-
 https://user-images.githubusercontent.com/48150826/182868369-2f0e97c1-d700-49e0-8957-039469cbaf7f.mov
 
 
-3. Docker Part
-	
-	+ Run Image Container
-	
-	
 
 
-
-
-https://user-images.githubusercontent.com/48150826/183028409-5dfecf89-c774-4ede-87a1-e07b9e933e2c.mov
 
 
 
