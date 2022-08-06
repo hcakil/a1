@@ -15,7 +15,7 @@ Flutter Tech Assessment
 
 ## Live Links from Project;
 
-1. [Android Test Link (Not available now)](https://www.google.com)
+1. [Android Test Link ](https://play.google.com/store/apps/details?id=com.digitalpratix.techassignment)
 2. [Apple (IOS) TestFlight Link](https://testflight.apple.com/join/7VCuLqf3)
 3. [Web Link (Not available now)](https://www.google.com)
 
